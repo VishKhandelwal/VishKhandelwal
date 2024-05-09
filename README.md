@@ -1,8 +1,12 @@
-# Hi, I'm Vaishali Khandelwal! 👋
+👋 Hi there, I'm Vaishali Khandelwal! 
 
-- 👀 I'm passionate about Data Analytics.
-- 🌱 Currently, I'm on a journey to master Data Analytics, Python, MySQL, Excel, and Power BI.
-- 💞️ I'm open to collaboration on exciting data-related projects.
-- 📫 You can reach out to me at [vaishali.kh2310@gmail.com](mailto:vaishali.kh2310@gmail.com).
+👀 Passionate about Data Analytics and all things data-driven.
 
-Let's connect and explore the world of data together!
+🌱 Currently mastering Data Analytics, Python, MySQL, Excel, and Power BI.
+
+💞️ Open to collaborating on exciting data-related projects.
+
+📫 Reach out to me at vaishali.kh2310@gmail.com.
+
+Let's connect and explore the world of data together! 🚀
+
